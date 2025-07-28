@@ -1,0 +1,22 @@
+/*
+/.*
+
+# Git
+!.gitignore
+!.gitmodules
+
+# Submodule
+!/.config/wofi
+
+# Hyprland
+!/.config/hypr/hyprland.conf
+
+
+# Waybar
+!/.config/waybar/config
+!/.config/waybar/style.css
+!/.config/waybar/macchiato.css
+
+# Thunar
+!/.config/Thunar/uca.xml
+!/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml
