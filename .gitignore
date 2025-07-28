@@ -67,3 +67,6 @@
 !.gitkeep
 
 !/backup
+
+!install.sh
+!uninsall.sh
