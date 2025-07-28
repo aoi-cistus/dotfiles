@@ -5,4 +5,4 @@ export SHELL=/bin/zsh
 autoload colors
 colors
 
-eval "($starship init zsh)"
+eval "$(starship init zsh)"
