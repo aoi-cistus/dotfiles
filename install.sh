@@ -1,5 +1,5 @@
-cp ~/.config ./backup
+cp -R ~/.config ./backup
 cp ~/.zshrc ./.zshrc.backup
 
-cp ./.config ~/.config
+cp -R ./.config ~/.config
 cp ./.zshrc ~/.zshrc
